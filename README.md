@@ -4,33 +4,36 @@
 
 ## Notebooks
 
-* [notebooks/FlowControl.ipynb](notebooks/FlowControl.ipynb)
-* [notebooks/MatchStatement.ipynb](notebooks/MatchStatement.ipynb)
+* [x] [notebooks/FlowControl.ipynb](notebooks/FlowControl.ipynb)
+* [x] [notebooks/MatchStatement.ipynb](notebooks/MatchStatement.ipynb)
 
 ----
 
-* [notebooks/DataModelOverview.ipynb](notebooks/DataModelOverview.ipynb)
+* [x] [notebooks/DataModelOverview.ipynb](notebooks/DataModelOverview.ipynb)
 
 Details
 
-* [notebooks/DataModelAttributeMagic.ipynb](notebooks/DataModelAttributeMagic.ipynb)
-* [notebooks/DataModelAugmentedAssignment.ipynb](notebooks/DataModelAugmentedAssignment.ipynb)
-* [notebooks/DataModelComparison.ipynb](notebooks/DataModelComparison.ipynb)
-* [notebooks/DataModelInitialization.ipynb](notebooks/DataModelInitialization.ipynb)
-* [notebooks/DataModelItemAccess.ipynb](notebooks/DataModelItemAccess.ipynb)
-* [notebooks/DataModelOperatorMagic.ipynb](notebooks/DataModelOperatorMagic.ipynb)
-* [notebooks/DataModelStringMagic.ipynb](notebooks/DataModelStringMagic.ipynb)
-* [notebooks/DataModelTypeConversions.ipynb](notebooks/DataModelTypeConversions.ipynb)
-* [notebooks/DatamodelUnary.ipynb](notebooks/DatamodelUnary.ipynb)
-* [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
-* [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
-* [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
-
+* [x] [notebooks/DataModelAttributeMagic.ipynb](notebooks/DataModelAttributeMagic.ipynb)
+* [x] [notebooks/DataModelAugmentedAssignment.ipynb](notebooks/DataModelAugmentedAssignment.ipynb)
+* [x] [notebooks/DataModelComparison.ipynb](notebooks/DataModelComparison.ipynb)
+* [x] [notebooks/DataModelInitialization.ipynb](notebooks/DataModelInitialization.ipynb)
+* [x] [notebooks/DataModelItemAccess.ipynb](notebooks/DataModelItemAccess.ipynb)
+* [x] [notebooks/DataModelOperatorMagic.ipynb](notebooks/DataModelOperatorMagic.ipynb)
+* [x] [notebooks/DataModelStringMagic.ipynb](notebooks/DataModelStringMagic.ipynb)
+* [x] [notebooks/DataModelTypeConversions.ipynb](notebooks/DataModelTypeConversions.ipynb)
+* [x] [notebooks/DatamodelUnary.ipynb](notebooks/DatamodelUnary.ipynb)
+* [ ] [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
+* [ ] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
+* [ ] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
 ----
 
-* [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
-* [notebooks/ClassDecorators.ipynb](notebooks/ClassDecorators.ipynb)
-* [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
+* [ ] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
+* [ ] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
+* [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
+* [ ] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
+* [ ] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
+* [ ] [notebooks/Collections.ipynb](notebooks/CollectionsABC.ipynb)
+ 
 
 ----
 
