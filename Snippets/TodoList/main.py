@@ -15,10 +15,10 @@ class TodoList:
         self.items = []
     
     def __iter__(self):
-        return self.items
+        return iter(self.items)
     
     def __str__(self):
-        return "\n".join([f"{item}" for item in sorted(self.items)])
+        return f"<TodoList with {len(self.items)} items>"
 
 
 t = TodoList()
@@ -27,3 +27,6 @@ t.items.append(Item("test sirens"))
 t.items.append(Item("test sms"))
 
 print(t)
+
+for task in sorted(t):
+    print(task)

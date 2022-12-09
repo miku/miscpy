@@ -25,6 +25,7 @@ Details
 * [ ] [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
 * [ ] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
 * [ ] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
+
 ----
 
 * [ ] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
@@ -32,8 +33,8 @@ Details
 * [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
 * [ ] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
 * [ ] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
-* [ ] [notebooks/Collections.ipynb](notebooks/CollectionsABC.ipynb)
- 
+* [ ] [notebooks/CollectionsABC.ipynb](notebooks/CollectionsABC.ipynb)
+* [ ] [notebooks/Interfaces.ipynb](notebooks/Interfaces.ipynb)
 
 ----
 
