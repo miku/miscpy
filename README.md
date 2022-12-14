@@ -23,28 +23,50 @@
 * [x] [notebooks/DataModelTypeConversions.ipynb](notebooks/DataModelTypeConversions.ipynb)
 * [x] [notebooks/DatamodelUnary.ipynb](notebooks/DatamodelUnary.ipynb)
 * [ ] [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
+
+> Lab: A validation utility
+
 * [ ] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
 * [ ] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
 
 ### Idiomatic Python
 
 * [ ] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
+
+> Lab: A minimal caching decorator
+
 * [ ] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
 * [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
+
+> Pythonic TodoList
+
 * [ ] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
+
+> Lab: Sort names by vowels
+
 * [ ] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
 * [ ] [notebooks/CollectionsABC.ipynb](notebooks/CollectionsABC.ipynb)
 * [ ] [notebooks/Interfaces.ipynb](notebooks/Interfaces.ipynb)
+
+----
+
+### Misc
+
+* [ ] [Testing](Extra/Testing.md)
+* [ ] [Packaging](Extra/Packaging/)
+
+----
 
 ### Labs
 
 * [ ] Pythonic TodoList (special methods)
 * [ ] A validation utility (descriptors)
 * [ ] A minimal caching decorator (decorators)
-* [ ] Sort names by vowel combinations (functional aspects) 
+* [ ] Sort names by vowel combinations (functional aspects)
 
 ----
 
 Extra
 
 * [notebooks/MethodCalls.ipynb](notebooks/MethodCalls.ipynb)
+* [notebooks/DataModelChecks.ipynb](notebooks/DataModelChecks.ipynb)
