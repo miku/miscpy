@@ -40,7 +40,8 @@
 
 * [ ] Pythonic TodoList (special methods)
 * [ ] A validation utility (descriptors)
-* [ ] A minimal caching decorator 
+* [ ] A minimal caching decorator (decorators)
+* [ ] Sort names by vowel combinations (functional aspects) 
 
 ----
 
