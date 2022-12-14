@@ -7,11 +7,11 @@
 * [x] [notebooks/FlowControl.ipynb](notebooks/FlowControl.ipynb)
 * [x] [notebooks/MatchStatement.ipynb](notebooks/MatchStatement.ipynb)
 
-----
+## Data Model
 
 * [x] [notebooks/DataModelOverview.ipynb](notebooks/DataModelOverview.ipynb)
 
-Details
+----
 
 * [x] [notebooks/DataModelAttributeMagic.ipynb](notebooks/DataModelAttributeMagic.ipynb)
 * [x] [notebooks/DataModelAugmentedAssignment.ipynb](notebooks/DataModelAugmentedAssignment.ipynb)
@@ -26,7 +26,7 @@ Details
 * [ ] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
 * [ ] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
 
-----
+### Idiomatic Python
 
 * [ ] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
 * [ ] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
@@ -35,6 +35,12 @@ Details
 * [ ] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
 * [ ] [notebooks/CollectionsABC.ipynb](notebooks/CollectionsABC.ipynb)
 * [ ] [notebooks/Interfaces.ipynb](notebooks/Interfaces.ipynb)
+
+### Labs
+
+* [ ] Pythonic TodoList (special methods)
+* [ ] A validation utility (descriptors)
+* [ ] A minimal caching decorator 
 
 ----
 
