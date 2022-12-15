@@ -37,6 +37,7 @@
 
 * [x] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
 * [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
+* [ ] [notebooks/ContextManager.ipynb](notebooks/ContextManager.ipynb)
 
 > [x] Pythonic TodoList
 
