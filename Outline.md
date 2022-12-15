@@ -16,6 +16,7 @@
 
 ## 3
 
+* [ ] decorator cont.
 * [ ] context manager
 * [ ] generators
 * [ ] functional utilities
@@ -29,6 +30,7 @@
 ## 4
 
 * [ ] coroutines
-* [ ] working with bytes
+* [ ] working with bytes (buffer)
 * [ ] typing and type hints
 * [ ] the import system
+* [ ] pythonic design patterns

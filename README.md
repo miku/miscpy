@@ -22,23 +22,23 @@
 * [x] [notebooks/DataModelStringMagic.ipynb](notebooks/DataModelStringMagic.ipynb)
 * [x] [notebooks/DataModelTypeConversions.ipynb](notebooks/DataModelTypeConversions.ipynb)
 * [x] [notebooks/DatamodelUnary.ipynb](notebooks/DatamodelUnary.ipynb)
-* [ ] [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
+* [x] [notebooks/Descriptors.ipynb](notebooks/Descriptors.ipynb)
 
-> Lab: A validation utility
+> [x] Lab: A validation utility
 
-* [ ] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
-* [ ] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
+* [x] [notebooks/Metaclasses.ipynb](notebooks/Metaclasses.ipynb)
+* [.] [notebooks/Slots.ipynb](notebooks/Slots.ipynb)
 
 ### Idiomatic Python
 
-* [ ] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
+* [.] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
 
-> Lab: A minimal caching decorator
+> [x] Lab: A minimal caching decorator
 
-* [ ] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
+* [x] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
 * [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
 
-> Pythonic TodoList
+> [x] Pythonic TodoList
 
 * [ ] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
 
@@ -50,9 +50,14 @@
 
 ----
 
-### Misc
+### Extra
 
 * [ ] [Testing](Extra/Testing.md)
+* [ ] [CodeOrganisation](Extra/CodeOrganisation.md)
+
+> Walkthrough: miniretry
+
+* [ ] [PackagingIntro](Extra/PackagingIntro/)
 * [ ] [Packaging](Extra/Packaging/)
 
 ----

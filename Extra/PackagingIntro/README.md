@@ -3,6 +3,18 @@
 ## Conda
 
 * package manager, as pip
+* introduced 2012
+
+> Conda is a package manager; Anaconda is a distribution
+
+As opposed to pip, conda is a general purpose package manager. About 10k canonical packages  available.
+
+```shell
+$ conda search --canonical  | awk '{print $1}' | sort -u | wc -l
+9893
+```
+
+Python and native packages.
 
 ```
 $ pip install ...
@@ -45,3 +57,17 @@ $ conda info
 A suggested conda update breaks w/ ImportError:
 
 * [https://github.com/conda/conda/issues/9957](https://github.com/conda/conda/issues/9957)
+
+Conda cheat sheet:
+
+* [conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
+Conda can manage environments.
+
+```
+$ conda create --name playground
+$ conda activate playground
+$ ...
+$ deactivate
+```
+
