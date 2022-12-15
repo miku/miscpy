@@ -2,31 +2,31 @@
 
 ## 1
 
-* control structures
-* structural pattern matching
-* data model
-* descriptors and slots
-* context manager
-* iteration
-* generators
-* functional utilities
+* [x] control structures
+* [x] structural pattern matching
+* [x] data model
+* [x] descriptors and slots
+* [ ] context manager
+* [x] iteration
+* [ ] generators
+* [ ] functional utilities
 
 
 ## 2
 
-* metaclasses
-* decorators (and class decorators)
-* abstract base classes
-* advanced collections
+* [x] metaclasses
+* [x] decorators (and class decorators)
+* [ ] abstract base classes
+* [ ] advanced collections
 
 ## 3
 
-* coroutines
-* working with bytes
-* typing and type hints
+* [ ] coroutines
+* [ ] working with bytes
+* [ ] typing and type hints
 
 ## 4
 
-* the import system
-* testing and code quality
-* publishing code
+* [ ] the import system
+* [ ] testing and code quality
+* [ ] publishing code
