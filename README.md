@@ -31,23 +31,23 @@
 
 ### Idiomatic Python
 
-* [.] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
+* [x] [notebooks/Decorators.ipynb](notebooks/Decorators.ipynb)
 
 > [x] Lab: A minimal caching decorator
 
 * [x] [notebooks/Iterators.ipynb](notebooks/Iterators.ipynb)
-* [ ] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
-* [ ] [notebooks/ContextManager.ipynb](notebooks/ContextManager.ipynb)
+* [x] [notebooks/Generators.ipynb](notebooks/Generators.ipynb)
+* [x] [notebooks/ContextManager.ipynb](notebooks/ContextManager.ipynb)
 
 > [x] Pythonic TodoList
 
-* [ ] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
+* [x] [notebooks/FunctionalAspects.ipynb](notebooks/FunctionalAspects.ipynb)
 
-> Lab: Sort names by vowels
+> [x] Lab: Sort names by vowels
 
-* [ ] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
-* [ ] [notebooks/CollectionsABC.ipynb](notebooks/CollectionsABC.ipynb)
-* [ ] [notebooks/Interfaces.ipynb](notebooks/Interfaces.ipynb)
+* [x] [notebooks/Collections.ipynb](notebooks/Collections.ipynb)
+* [x] [notebooks/CollectionsABC.ipynb](notebooks/CollectionsABC.ipynb)
+* [x] [notebooks/Interfaces.ipynb](notebooks/Interfaces.ipynb)
 
 ----
 
@@ -63,7 +63,7 @@
 
 Misc:
 
-* [ ] [Exceptions](notebooks/Exceptions.ipynb)
+* [x] [Exceptions](notebooks/Exceptions.ipynb)
 
 ----
 
