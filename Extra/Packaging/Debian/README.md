@@ -14,7 +14,7 @@ If you are on OS X, you might want to use Vagrant to boot up a Linux box
 to test debian packaging of Python packages via dh-virtualenv.
 
 ```
-$ vagrant init debain/stretch64
+$ vagrant init debian/bullseye64
 $ vagrant ssh
 $ sudo apt-get update && sudo apt-get upgrade
 $ sudo apt-get install debhelper devscripts python-virtualenv git equivs

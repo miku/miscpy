@@ -61,13 +61,17 @@
 * [ ] [PackagingIntro](Extra/PackagingIntro/)
 * [ ] [Packaging](Extra/Packaging/)
 
+Misc:
+
+* [ ] [Exceptions](notebooks/Exceptions.ipynb)
+
 ----
 
 ### Labs
 
-* [ ] Pythonic TodoList (special methods)
-* [ ] A validation utility (descriptors)
-* [ ] A minimal caching decorator (decorators)
+* [x] Pythonic TodoList (special methods)
+* [x] A validation utility (descriptors)
+* [x] A minimal caching decorator (decorators)
 * [ ] Sort names by vowel combinations (functional aspects)
 
 ----
