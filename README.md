@@ -53,20 +53,19 @@
 
 ### Extra
 
-* [ ] [Testing](Extra/Testing.md)
-* [ ] [CodeOrganisation](Extra/CodeOrganisation.md)
+* [ ] [PackagingIntro](Extra/PackagingIntro/)
+* [ ] [Packaging](Extra/Packaging/)
+* [ ] [Utilities](Extra/Utilities.md)
 
 > Walkthrough: miniretry
 
-* [ ] [PackagingIntro](Extra/PackagingIntro/)
-* [ ] [Packaging](Extra/Packaging/)
+* [ ] [Testing](Extra/Testing.md)
+* [ ] [CodeOrganisation](Extra/CodeOrganisation.md)
 
 ...
 
-* [ ] [Imports](Extra/Imports.md)
 * [ ] [TypeHints](Extra/TypeHints.md)
-
-
+* [ ] [DesignPatterns](Extra/DesignPatterns.md)
 
 ----
 
