@@ -16,21 +16,20 @@
 
 ## 3
 
-* [ ] decorator cont.
-* [ ] context manager
-* [ ] generators
-* [ ] functional utilities
-* [ ] abstract base classes
-* [ ] advanced collections
-* [ ] testing and code quality
-* [ ] publishing code
+* [x] decorator cont.
+* [x] context manager
+* [x] generators
+* [x] functional utilities
+* [x] abstract base classes
+* [x] advanced collections
+* [.] publishing code
 
 ....
 
 ## 4
 
-* [ ] coroutines
-* [ ] working with bytes (buffer)
+* [.] publishing code
+* [ ] testing and code quality
 * [ ] typing and type hints
 * [ ] the import system
 * [ ] pythonic design patterns

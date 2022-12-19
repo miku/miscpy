@@ -61,6 +61,15 @@
 * [ ] [PackagingIntro](Extra/PackagingIntro/)
 * [ ] [Packaging](Extra/Packaging/)
 
+...
+
+* [ ] [Imports](Extra/Imports.md)
+* [ ] [TypeHints](Extra/TypeHints.md)
+
+
+
+----
+
 Misc:
 
 * [x] [Exceptions](notebooks/Exceptions.ipynb)
@@ -72,11 +81,11 @@ Misc:
 * [x] Pythonic TodoList (special methods)
 * [x] A validation utility (descriptors)
 * [x] A minimal caching decorator (decorators)
-* [ ] Sort names by vowel combinations (functional aspects)
+* [x] Sort names by vowel combinations (functional aspects)
 
 ----
 
-Extra
+Assorted
 
 * [notebooks/MethodCalls.ipynb](notebooks/MethodCalls.ipynb)
 * [notebooks/DataModelChecks.ipynb](notebooks/DataModelChecks.ipynb)
