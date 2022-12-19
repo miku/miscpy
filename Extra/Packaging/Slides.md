@@ -341,7 +341,7 @@ universal = 1
 
 -- zzzeek on [Aug 14, 2016](https://news.ycombinator.com/item?id=12285497)
 
-* 291/360 popular packages available as wheels (https://pythonwheels.com/)
+* 354/360 popular packages available as wheels (https://pythonwheels.com/)
 
 ----
 
